@@ -1,0 +1,53 @@
+.cabecalho{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+body{
+    margin: 0% auto;
+}
+
+nav{
+    background-color: bisque;
+}
+
+footer{
+    background-color: gray;
+}
+
+.imgPag{
+    width: 650px;
+    height: 404px;
+    margin-top: 2%;
+}
+
+.textoFonte{
+    font-size: 20px;
+    color: white;
+}
+
+.textoMenu{
+    color:black;
+}
+
+nav{
+    background-color: #e1e1ea;
+    font-size:  20px;
+    padding-left: 13.5%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#banner{
+    width: 800px; 
+    height: 220px;
+    margin-top: 5%;
+}
